@@ -19,9 +19,9 @@
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+Previously a Software Engineer at Accenture, I love to solve problems. I have always believed in inclusivity and teamwork. I always think about how a particular process could be improved through technology.
 
-See [my website](https://shawncharles.com) for more information!
+See [my website](https://architchoudhary.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
