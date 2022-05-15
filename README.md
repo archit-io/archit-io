@@ -62,6 +62,6 @@ See [my website](https://architchoudhary.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>  
 </p>
-
+<br><br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-io&" alt="archit-io" /></p>
-
+<br><br>
