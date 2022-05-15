@@ -17,8 +17,6 @@ Previously a Software Engineer at Accenture, I love to solve problems. I have al
 
 See [my website](https://architchoudhary.netlify.app/) for more information!
 
-<h3 align="center">A passionate Full-stack Software Engineer</h3>
-
 - 👨‍💻 All of my projects are available at [https://architchoudhary.netlify.app/](https://architchoudhary.netlify.app/)
 
 - 📝 I regularly write articles on [https://architchoudhary.hashnode.dev/](https://architchoudhary.hashnode.dev/)
@@ -64,4 +62,6 @@ See [my website](https://architchoudhary.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>  
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-io&" alt="archit-io" /></p>
 
