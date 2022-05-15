@@ -63,5 +63,5 @@ See [my website](https://architchoudhary.netlify.app/) for more information!
   </a>  
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-io&" alt="archit-io" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-io&" alt="archit-io" /></p>
 
