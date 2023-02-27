@@ -40,7 +40,7 @@ See [my website](https://architchoudhary.com/) for more information!
         <p><strong>React.js, Node.js, Express.js, MongoDb, Firebase, GCP, Bootstrap, GraphQl</strong> - Platform to help students analyze previous year question papers of the competitive exams.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">"Krazy-G"</h3>
+      <h3 align="center">Krazy-G</h3>
         <br />
       <a target="_blank" href="https://emart-ecommerce-app.herokuapp.com">
             <img src="https://i.ibb.co/LCyq3RQ/home.png" width="100%"  alt="Krazy G"/>
@@ -48,7 +48,7 @@ See [my website](https://architchoudhary.com/) for more information!
         <br />
         <p align="center">
           
-  <a href="[https://github.com/archit-io/Krazy-G" target="_blank">
+  <a href="https://github.com/archit-io/Krazy-G" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://emart-ecommerce-app.herokuapp.com" target="_blank">
@@ -64,7 +64,7 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Dante's Library</h3>
       <br />
         <a target="_blank" href="https://dantesbooks.onrender.com">
-          <img src="images/gif4.gif" width="100%" alt="Dante"/>
+          <img src="https://res.cloudinary.com/dcde0wqqt/image/upload/v1677499990/Github/dante_egz6nr.gif" width="100%" alt="Dante"/>
         </a>
       <br />
         <p align="center">
