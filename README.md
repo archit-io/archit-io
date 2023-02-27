@@ -21,8 +21,6 @@ See [my website](https://architchoudhary.com/) for more information!
 - 📝 I regularly write articles on [https://architchoudhary.hashnode.dev/](https://architchoudhary.hashnode.dev/)
 - ⚡ Fun fact **I can talk to you about different things**
 
-<h1 align="center">Technologies</h1>
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -31,7 +29,7 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Xelyzer</h3>
         <br />
         <a target="_blank" href="https://examanalyzer.vercel.app/">
-            <img src="images/xelyzer.gif" width="100%" alt="Educational App"/>
+            <img src="https://res.cloudinary.com/dcde0wqqt/video/upload/v1677496850/Github/xelyzer_pnpbxx.mp4" width="100%" alt="Educational App"/>
         </a>
         <br />
         <p align="center">  
@@ -135,6 +133,7 @@ See [my website](https://architchoudhary.com/) for more information!
   </tr>
 </table>
 
+<h1 align="center">Technologies</h1>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
