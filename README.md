@@ -64,7 +64,7 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Dante's Library</h3>
       <br />
         <a target="_blank" href="https://dantesbooks.onrender.com">
-          <img src="https://res.cloudinary.com/dcde0wqqt/image/upload/v1677499990/Github/dante_egz6nr.gif" width="100%" alt="Dante"/>
+          <img src="https://i.ibb.co/37d2NTt/dante.png" width="100%" alt="Dante"/>
         </a>
       <br />
         <p align="center">
@@ -81,7 +81,7 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Spookyland</h3>
         <br />
         <a target="_blank" href="https://ghoststories.cyclic.app">
-          <img src="images/spookyland.gif" width="100%" alt="Spooky Land"/>
+          <img src="https://i.ibb.co/RBRMyQr/ghost-stories.png" width="100%" alt="Spooky Land"/>
         </a>
         <br />
         <p align="center">
@@ -119,7 +119,7 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Ghost Busterz</h3>
         <br />
       <a target="_blank" href="https://ghostbusterz.netlify.app/">
-            <img src="https://res.cloudinary.com/dcde0wqqt/image/upload/v1677502083/Github/ghostb_jfh3w7.gif" width="100%"  alt="Ghost Busterz"/>
+            <img src="https://i.ibb.co/sm3bHgx/ghosts.png" width="100%"  alt="Ghost Busterz"/>
         </a>
         <br />
         <p align="center">
