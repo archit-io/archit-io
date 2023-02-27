@@ -23,6 +23,118 @@ See [my website](https://architchoudhary.com/) for more information!
 
 <h1 align="center">Technologies</h1>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Xelyzer</h3>
+        <br />
+        <a target="_blank" href="https://examanalyzer.vercel.app/">
+            <img src="images/xelyzer.gif" width="100%" alt="Educational App"/>
+        </a>
+        <br />
+        <p align="center">  
+  <a href="http://travelara.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, Node.js, Express.js, MongoDb, Firebase, GCP, Bootstrap, GraphQl</strong> - Platform to help students analyze previous year question papers of the competitive exams.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">"Krazy-G"</h3>
+        <br />
+      <a target="_blank" href="https://emart-ecommerce-app.herokuapp.com">
+            <img src="images/krazyg.gif" width="100%"  alt="Krazy G"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="[https://github.com/archit-io/Krazy-G" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://emart-ecommerce-app.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A full stack E-Commerce application where you can purchase games for PC and PlayStation.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Dante's Library</h3>
+      <br />
+        <a target="_blank" href="https://dantesbooks.onrender.com">
+          <img src="images/gif4.gif" width="100%" alt="Dante"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/archit-io/Dantes-Library" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://dantesbooks.onrender.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, & Google Books API</strong> - Add a personal collection of books to your online library. You can review the books and view reviews of your family and friends. You'll also be able to add books to your personal reading list.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Spookyland</h3>
+        <br />
+        <a target="_blank" href="https://ghoststories.cyclic.app">
+          <img src="images/spookyland.gif" width="100%" alt="Spooky Land"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/archit-io/Ghost-Stories" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://ghoststories.cyclic.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - An attractive web application that allows anyone to share their spooky experiences.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Understanding CSS z-index</h3>
+        <br />
+        <a target="_blank" href="https://understanding-z-index.netlify.app">
+            <img src="images/zindex.gif" width="100%" alt="CSS z-index"/>
+        </a>
+        <br />
+        <p align="center">  
+  <a href="https://understanding-z-index.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A web application created to understand the concept of Z-Index in CSS.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Ghost Busterz</h3>
+        <br />
+      <a target="_blank" href="https://ghostbusterz.netlify.app/">
+            <img src="images/ghostb.gif" width="100%"  alt="Ghost Busterz"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="[https://github.com/archit-io/Krazy-G" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/archit-io/Ghost-Busterz" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Just click and bust the wandering ghosts. You have to do it in the least time possible to beat your own personal best score. </p>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
