@@ -43,7 +43,7 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">"Krazy-G"</h3>
         <br />
       <a target="_blank" href="https://emart-ecommerce-app.herokuapp.com">
-            <img src="images/krazyg.gif" width="100%"  alt="Krazy G"/>
+            <img src="https://i.ibb.co/LCyq3RQ/home.png" width="100%"  alt="Krazy G"/>
         </a>
         <br />
         <p align="center">
