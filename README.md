@@ -29,11 +29,11 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Xelyzer</h3>
         <br />
         <a target="_blank" href="https://examanalyzer.vercel.app/">
-            <img src="https://res.cloudinary.com/dcde0wqqt/video/upload/v1677496850/Github/xelyzer_pnpbxx.mp4" width="100%" alt="Educational App"/>
+            <img src="https://res.cloudinary.com/dcde0wqqt/image/upload/v1677497146/Github/xelyzer_nhatve.gif" width="100%" alt="Educational App"/>
         </a>
         <br />
         <p align="center">  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://examanalyzer.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
