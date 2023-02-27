@@ -102,7 +102,7 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Understanding CSS z-index</h3>
         <br />
         <a target="_blank" href="https://understanding-z-index.netlify.app">
-            <img src="images/zindex.gif" width="100%" alt="CSS z-index"/>
+            <img src="https://res.cloudinary.com/dcde0wqqt/image/upload/v1677501032/Github/zindex_ftzx8a.gif" width="100%" alt="CSS z-index"/>
         </a>
         <br />
         <p align="center">  
