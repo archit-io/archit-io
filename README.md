@@ -119,15 +119,15 @@ See [my website](https://architchoudhary.com/) for more information!
       <h3 align="center">Ghost Busterz</h3>
         <br />
       <a target="_blank" href="https://ghostbusterz.netlify.app/">
-            <img src="images/ghostb.gif" width="100%"  alt="Ghost Busterz"/>
+            <img src="https://res.cloudinary.com/dcde0wqqt/image/upload/v1677502083/Github/ghostb_jfh3w7.gif" width="100%"  alt="Ghost Busterz"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="[https://github.com/archit-io/Krazy-G" target="_blank">
+  <a href="https://github.com/archit-io/Ghost-Busterz" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/archit-io/Ghost-Busterz" target="_blank">
+  <a href="https://ghostbusterz.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
