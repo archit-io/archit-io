@@ -63,7 +63,7 @@ See [my website](https://architchoudhary.com/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Dante's Library</h3>
       <br />
-        <a target="_blank" href="https://dantesbooks.onrender.com">
+        <a target="_blank" href="https://danteslibrary.cyclic.app/">
           <img src="https://i.ibb.co/37d2NTt/dante.png" width="100%" alt="Dante"/>
         </a>
       <br />
