@@ -17,7 +17,7 @@ Previously a Software Engineer at Accenture, I love to solve problems. I have al
 
 See [my website](https://architchoudhary.com/) for more information!
 
-- 👨‍💻 All of my projects are available at [https://architchoudhary.com/](https://architchoudhary.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://architchoudhary.com/](https://architchoudhary.com/)
 - 📝 I regularly write articles on [https://architchoudhary.hashnode.dev/](https://architchoudhary.hashnode.dev/)
 - 📫 How to reach me **architc.official@gmail.com**
 - ⚡ Fun fact **I can talk to you about different things**
